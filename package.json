@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "@jobber/design": "^0.25.2",
-    "@rnmapbox/maps": "^10.0.0-beta.32",
+    "@rnmapbox/maps": "https://github.com/rjdestigter/rnmapbox-maps/#issue-2213",
     "date-fns": "^2.29.2",
     "react": "18.0.0",
     "react-native": "0.69.5",

@@ -1315,10 +1315,9 @@
   resolved "https://registry.yarnpkg.com/@react-native/polyfills/-/polyfills-2.0.0.tgz#4c40b74655c83982c8cf47530ee7dc13d957b6aa"
   integrity sha512-K0aGNn1TjalKj+65D7ycc1//H9roAQ51GJVk5ZJQFb2teECGmzd86bYDC0aYdbRf7gtovescq4Zt6FR0tgXiHQ==
 
-"@rnmapbox/maps@^10.0.0-beta.32":
-  version "10.0.0-beta.34"
-  resolved "https://registry.yarnpkg.com/@rnmapbox/maps/-/maps-10.0.0-beta.34.tgz#1894e6bf7cf8667eb9620a5c079531a7dcf1e9a7"
-  integrity sha512-jqHEgDjmn1w/+6GZjGFpw68DhPD49jXM7CpV5DKuDvwv7TW/jE9hB87ZxmyX24808thTIgq6DMUthyGzSdIqlA==
+"@rnmapbox/maps@https://github.com/rjdestigter/rnmapbox-maps/#issue-2213":
+  version "10.0.0-beta.35"
+  resolved "https://github.com/rjdestigter/rnmapbox-maps/#2578583a69734e3d42190bba93bb23f76c2b821a"
   dependencies:
     "@mapbox/geo-viewport" ">= 0.4.0"
     "@turf/along" "6.5.0"
